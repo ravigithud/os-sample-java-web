@@ -35,6 +35,6 @@ steps
   //deploy adapters: [tomcat8(credentialsId: '123', path: '', url: 'http://13.233.233.109:8080')], contextPath: null, war: '**/*.war'
   //}
 //}  
-  // }
- //}
+   }
+ }
  
